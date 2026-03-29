@@ -1,6 +1,6 @@
 # Snake-game
 
-## A game coding by original C after I learn C Grammar
+## A game coding by original C after I learn C grammar
 
 ### Function
 - calculate scores
