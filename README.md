@@ -1,10 +1,10 @@
 # Snake-game
 
-## A game coding by original C after I learn C program
+## A game coding by original C after I learn C Grammar
 
 ### Function
 - calculate scores
-- playing with funny music
+- playing with interesting music
 - speed up / slow down
 
 
